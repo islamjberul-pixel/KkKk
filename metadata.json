@@ -1,0 +1,6 @@
+{
+  "name": "KAR7 PRO",
+  "description": "KAR7 PRO client app with Base44 key authentication, encrypted session management, announcements, and verified game data management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

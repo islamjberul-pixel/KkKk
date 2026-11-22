@@ -1,0 +1,51 @@
+# Gradle & Kotlin build caches
+.gradle/
+.gradle
+.kotlin/
+build/
+/build/
+app/build/
+*/build/
+.build-outputs/
+
+# IDE & OS files
+*.iml
+.idea/
+.DS_Store
+/captures
+.externalNativeBuild/
+.cxx/
+
+# Local SDK & environment configuration
+local.properties
+/local.properties
+
+# Keystores & signing credentials (never commit)
+*.jks
+*.keystore
+*.keystore.base64
+debug.keystore
+debug.keystore.base64
+*.p12
+*.pfx
+*.pk8
+*.pem
+keystore.properties
+signing.properties
+release-signing.properties
+
+# Private API tokens, local secrets & Firebase configs
+.env
+.env.local
+.env.*.local
+secrets.properties
+*.secret
+google-services.json
+
+# Build outputs
+*.apk
+*.aab
+*.ap_
+
+# Keep Gradle Wrapper JAR tracked for CI builds
+!gradle/wrapper/gradle-wrapper.jar

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="kar7_obsidian">#FF09090B</color>
+    <color name="kar7_charcoal">#FF121216</color>
+    <color name="kar7_gold">#FFD4AF37</color>
+    <color name="kar7_soft_gold">#FFF2D27A</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
